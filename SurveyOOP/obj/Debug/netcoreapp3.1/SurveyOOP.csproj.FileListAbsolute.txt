@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\SurveyOOP\SurveyOOP\bin\Debug\netcoreapp3.1\SurveyOOP.exe
+C:\Users\HP\source\repos\SurveyOOP\SurveyOOP\bin\Debug\netcoreapp3.1\SurveyOOP.deps.json
+C:\Users\HP\source\repos\SurveyOOP\SurveyOOP\bin\Debug\netcoreapp3.1\SurveyOOP.runtimeconfig.json
+C:\Users\HP\source\repos\SurveyOOP\SurveyOOP\bin\Debug\netcoreapp3.1\SurveyOOP.runtimeconfig.dev.json
+C:\Users\HP\source\repos\SurveyOOP\SurveyOOP\bin\Debug\netcoreapp3.1\SurveyOOP.dll
+C:\Users\HP\source\repos\SurveyOOP\SurveyOOP\bin\Debug\netcoreapp3.1\SurveyOOP.pdb
+C:\Users\HP\source\repos\SurveyOOP\SurveyOOP\obj\Debug\netcoreapp3.1\SurveyOOP.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\SurveyOOP\SurveyOOP\obj\Debug\netcoreapp3.1\SurveyOOP.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\SurveyOOP\SurveyOOP\obj\Debug\netcoreapp3.1\SurveyOOP.AssemblyInfo.cs
+C:\Users\HP\source\repos\SurveyOOP\SurveyOOP\obj\Debug\netcoreapp3.1\SurveyOOP.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\SurveyOOP\SurveyOOP\obj\Debug\netcoreapp3.1\SurveyOOP.dll
+C:\Users\HP\source\repos\SurveyOOP\SurveyOOP\obj\Debug\netcoreapp3.1\SurveyOOP.pdb
+C:\Users\HP\source\repos\SurveyOOP\SurveyOOP\obj\Debug\netcoreapp3.1\SurveyOOP.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\SchoolManager\SchoolManager\bin\Debug\netcoreapp3.1\SchoolManager.exe
+C:\Users\HP\source\repos\SchoolManager\SchoolManager\bin\Debug\netcoreapp3.1\SchoolManager.deps.json
+C:\Users\HP\source\repos\SchoolManager\SchoolManager\bin\Debug\netcoreapp3.1\SchoolManager.runtimeconfig.json
+C:\Users\HP\source\repos\SchoolManager\SchoolManager\bin\Debug\netcoreapp3.1\SchoolManager.runtimeconfig.dev.json
+C:\Users\HP\source\repos\SchoolManager\SchoolManager\bin\Debug\netcoreapp3.1\SchoolManager.dll
+C:\Users\HP\source\repos\SchoolManager\SchoolManager\bin\Debug\netcoreapp3.1\SchoolManager.pdb
+C:\Users\HP\source\repos\SchoolManager\SchoolManager\obj\Debug\netcoreapp3.1\SchoolManager.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\SchoolManager\SchoolManager\obj\Debug\netcoreapp3.1\SchoolManager.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\SchoolManager\SchoolManager\obj\Debug\netcoreapp3.1\SchoolManager.AssemblyInfo.cs
+C:\Users\HP\source\repos\SchoolManager\SchoolManager\obj\Debug\netcoreapp3.1\SchoolManager.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\SchoolManager\SchoolManager\obj\Debug\netcoreapp3.1\SchoolManager.dll
+C:\Users\HP\source\repos\SchoolManager\SchoolManager\obj\Debug\netcoreapp3.1\SchoolManager.pdb
+C:\Users\HP\source\repos\SchoolManager\SchoolManager\obj\Debug\netcoreapp3.1\SchoolManager.genruntimeconfig.cache
